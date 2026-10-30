@@ -1,0 +1,406 @@
+{
+  "updated": "2026-10-30",
+  "source": "জনপ্রশাসন মন্ত্রণালয়ের প্রজ্ঞাপন (৯ নভেম্বর ২০২৫) ও পরবর্তী সরকারি সিদ্ধান্ত",
+  "holidays": [
+    {
+      "date": "2026-01-23",
+      "provisional": false,
+      "note": "হিন্দু পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Saraswati Puja",
+      "bn": "সরস্বতী পূজা"
+    },
+    {
+      "date": "2026-02-01",
+      "provisional": false,
+      "note": "বৌদ্ধ পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Magh Purnima",
+      "bn": "মাঘী পূর্ণিমা"
+    },
+    {
+      "date": "2026-02-04",
+      "provisional": false,
+      "note": "চাঁদ দেখা কমিটির সিদ্ধান্ত অনুযায়ী ৪ ফেব্রুয়ারিই ছুটি",
+      "kind": "EXECUTIVE",
+      "en": "Shab-e-Barat",
+      "bn": "শবে বরাত"
+    },
+    {
+      "date": "2026-02-10",
+      "provisional": false,
+      "note": "নির্বাচন ও গণভোট উপলক্ষে",
+      "kind": "SPECIAL",
+      "en": "Special holiday for industrial-area workers",
+      "bn": "শিল্পাঞ্চলের শ্রমিকদের বিশেষ ছুটি"
+    },
+    {
+      "date": "2026-02-11",
+      "provisional": false,
+      "note": "নির্বাচনকালীন নির্বাহী আদেশ (২৫ জানুয়ারি ও ৮ ফেব্রুয়ারির প্রজ্ঞাপন)",
+      "kind": "EXECUTIVE",
+      "en": "Election & referendum holiday",
+      "bn": "নির্বাচন ও গণভোট উপলক্ষে ছুটি"
+    },
+    {
+      "date": "2026-02-12",
+      "provisional": false,
+      "note": "নির্বাচনের দিন",
+      "kind": "EXECUTIVE",
+      "en": "13th National Parliamentary Election & referendum",
+      "bn": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও গণভোট"
+    },
+    {
+      "date": "2026-02-15",
+      "provisional": false,
+      "note": "হিন্দু পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Shivaratri",
+      "bn": "শিবরাত্রি"
+    },
+    {
+      "date": "2026-02-21",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Shaheed Day & International Mother Language Day",
+      "bn": "শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস"
+    },
+    {
+      "date": "2026-03-03",
+      "provisional": false,
+      "note": "হিন্দু পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Dol Jatra",
+      "bn": "দোলযাত্রা"
+    },
+    {
+      "date": "2026-03-17",
+      "provisional": false,
+      "note": "ঈদের ছুটির সাথে যুক্ত",
+      "kind": "EXECUTIVE",
+      "en": "Shab-e-Qadr",
+      "bn": "শবে কদর"
+    },
+    {
+      "date": "2026-03-17",
+      "provisional": false,
+      "note": "হিন্দু পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Harichand Thakur's birth anniversary",
+      "bn": "শ্রীশ্রী হরিচাঁদ ঠাকুরের আবির্ভাব"
+    },
+    {
+      "date": "2026-03-18",
+      "provisional": false,
+      "note": "মন্ত্রিসভার সিদ্ধান্তে (৫ মার্চ) যুক্ত, ফলে মোট ৭ দিন ছুটি",
+      "kind": "EXECUTIVE",
+      "en": "Extra Eid-ul-Fitr holiday",
+      "bn": "ঈদুল ফিতরের বাড়তি ছুটি"
+    },
+    {
+      "date": "2026-03-19",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Pre-Eid-ul-Fitr holiday",
+      "bn": "ঈদুল ফিতরের আগের ছুটি"
+    },
+    {
+      "date": "2026-03-20",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Jumatul Bida",
+      "bn": "জুমাতুল বিদা"
+    },
+    {
+      "date": "2026-03-21",
+      "provisional": false,
+      "note": "শাওয়ালের চাঁদ দেখা না যাওয়ায় ২১ মার্চ নিশ্চিত",
+      "kind": "GENERAL",
+      "en": "Eid-ul-Fitr",
+      "bn": "ঈদুল ফিতর"
+    },
+    {
+      "date": "2026-03-22",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Post-Eid-ul-Fitr holiday",
+      "bn": "ঈদুল ফিতরের পরের ছুটি"
+    },
+    {
+      "date": "2026-03-23",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Post-Eid-ul-Fitr holiday",
+      "bn": "ঈদুল ফিতরের পরের ছুটি"
+    },
+    {
+      "date": "2026-03-24",
+      "provisional": false,
+      "note": "মুসলিম পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Third day after Eid-ul-Fitr",
+      "bn": "ঈদুল ফিতরের পরের তৃতীয় দিন"
+    },
+    {
+      "date": "2026-03-26",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Independence & National Day",
+      "bn": "স্বাধীনতা ও জাতীয় দিবস"
+    },
+    {
+      "date": "2026-04-12",
+      "provisional": false,
+      "note": "ক্ষুদ্র নৃগোষ্ঠী",
+      "kind": "OPTIONAL",
+      "en": "Boisabi festival",
+      "bn": "বৈসাবি (ঐচ্ছিক)"
+    },
+    {
+      "date": "2026-04-13",
+      "provisional": false,
+      "note": "শুধু পার্বত্য জেলাসমূহ; অন্যত্র বৌদ্ধ পর্বে ঐচ্ছিক",
+      "kind": "SPECIAL",
+      "en": "Chaitra Sankranti / Boisabi (hill districts)",
+      "bn": "চৈত্রসংক্রান্তি / বৈসাবি (পার্বত্য জেলা)"
+    },
+    {
+      "date": "2026-04-14",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Pohela Boishakh (Bengali New Year)",
+      "bn": "পহেলা বৈশাখ"
+    },
+    {
+      "date": "2026-04-15",
+      "provisional": false,
+      "note": "ক্ষুদ্র নৃগোষ্ঠী",
+      "kind": "OPTIONAL",
+      "en": "Boisabi festival",
+      "bn": "বৈসাবি (ঐচ্ছিক)"
+    },
+    {
+      "date": "2026-04-30",
+      "provisional": false,
+      "note": "বৌদ্ধ পর্ব (ঐচ্ছিক)",
+      "kind": "OPTIONAL",
+      "en": "Buddha Purnima",
+      "bn": "বুদ্ধপূর্ণিমা"
+    },
+    {
+      "date": "2026-05-01",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "May Day",
+      "bn": "মে দিবস"
+    },
+    {
+      "date": "2026-05-01",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Buddha Purnima",
+      "bn": "বুদ্ধ পূর্ণিমা"
+    },
+    {
+      "date": "2026-05-02",
+      "provisional": false,
+      "note": "বৌদ্ধ পর্ব (ঐচ্ছিক)",
+      "kind": "OPTIONAL",
+      "en": "Buddha Purnima",
+      "bn": "বুদ্ধপূর্ণিমা"
+    },
+    {
+      "date": "2026-05-25",
+      "provisional": false,
+      "note": "সরকারি সিদ্ধান্তে যুক্ত, ফলে ২৫–৩১ মে টানা ৭ দিন",
+      "kind": "EXECUTIVE",
+      "en": "Extra Eid-ul-Adha holiday",
+      "bn": "ঈদুল আজহার বাড়তি ছুটি"
+    },
+    {
+      "date": "2026-05-26",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Pre-Eid-ul-Adha holiday",
+      "bn": "ঈদুল আজহার আগের ছুটি"
+    },
+    {
+      "date": "2026-05-27",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Pre-Eid-ul-Adha holiday",
+      "bn": "ঈদুল আজহার আগের ছুটি"
+    },
+    {
+      "date": "2026-05-28",
+      "provisional": false,
+      "note": "জিলহজের চাঁদ দেখা যাওয়ায় ২৮ মে নিশ্চিত",
+      "kind": "GENERAL",
+      "en": "Eid-ul-Adha",
+      "bn": "ঈদুল আজহা"
+    },
+    {
+      "date": "2026-05-29",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Post-Eid-ul-Adha holiday",
+      "bn": "ঈদুল আজহার পরের ছুটি"
+    },
+    {
+      "date": "2026-05-30",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Post-Eid-ul-Adha holiday",
+      "bn": "ঈদুল আজহার পরের ছুটি"
+    },
+    {
+      "date": "2026-05-31",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Post-Eid-ul-Adha holiday",
+      "bn": "ঈদুল আজহার পরের ছুটি"
+    },
+    {
+      "date": "2026-06-01",
+      "provisional": false,
+      "note": "মুসলিম পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Fourth day after Eid-ul-Adha",
+      "bn": "ঈদুল আজহার পরের চতুর্থ দিন"
+    },
+    {
+      "date": "2026-06-26",
+      "provisional": false,
+      "note": "মহররমের চাঁদ দেখা যাওয়ায় ২৬ জুন নিশ্চিত",
+      "kind": "EXECUTIVE",
+      "en": "Ashura",
+      "bn": "আশুরা"
+    },
+    {
+      "date": "2026-07-29",
+      "provisional": false,
+      "note": "বৌদ্ধ পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Ashari Purnima",
+      "bn": "আষাঢ়ী পূর্ণিমা"
+    },
+    {
+      "date": "2026-08-05",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "July Mass Uprising Day",
+      "bn": "জুলাই গণঅভ্যুত্থান দিবস"
+    },
+    {
+      "date": "2026-08-26",
+      "provisional": false,
+      "note": "রবিউল আউয়ালের চাঁদ দেখা না যাওয়ায় ২৬ আগস্ট নিশ্চিত",
+      "kind": "GENERAL",
+      "en": "Eid-e-Miladunnabi",
+      "bn": "ঈদে মিলাদুন্নবী (সা.)"
+    },
+    {
+      "date": "2026-09-04",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Janmashtami",
+      "bn": "শুভ জন্মাষ্টমী"
+    },
+    {
+      "date": "2026-10-10",
+      "provisional": false,
+      "note": "হিন্দু পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Mahalaya",
+      "bn": "মহালয়া"
+    },
+    {
+      "date": "2026-10-18",
+      "provisional": false,
+      "note": "হিন্দু পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Durga Puja (Maha Saptami)",
+      "bn": "দুর্গাপূজা (মহাসপ্তমী)"
+    },
+    {
+      "date": "2026-10-19",
+      "provisional": false,
+      "note": "হিন্দু পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Durga Puja (Maha Ashtami)",
+      "bn": "দুর্গাপূজা (মহাষ্টমী)"
+    },
+    {
+      "date": "2026-10-20",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Durga Puja (Maha Navami)",
+      "bn": "দুর্গাপূজা (মহানবমী)"
+    },
+    {
+      "date": "2026-10-21",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Durga Puja (Bijoya Dashami)",
+      "bn": "দুর্গাপূজা (বিজয়া দশমী)"
+    },
+    {
+      "date": "2026-10-22",
+      "provisional": false,
+      "note": "পরে ঘোষিত",
+      "kind": "EXECUTIVE",
+      "en": "Extra Durga Puja holiday",
+      "bn": "দুর্গাপূজার অতিরিক্ত ছুটি"
+    },
+    {
+      "date": "2026-10-25",
+      "provisional": false,
+      "note": "হিন্দু পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Lakshmi Puja",
+      "bn": "লক্ষ্মীপূজা"
+    },
+    {
+      "date": "2026-11-08",
+      "provisional": false,
+      "note": "হিন্দু পর্ব",
+      "kind": "OPTIONAL",
+      "en": "Shyama Puja",
+      "bn": "শ্যামা পূজা"
+    },
+    {
+      "date": "2026-12-16",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Victory Day",
+      "bn": "মহান বিজয় দিবস"
+    },
+    {
+      "date": "2026-12-25",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Christmas Day",
+      "bn": "বড়দিন"
+    }
+  ]
+}
