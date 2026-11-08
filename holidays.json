@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30",
-  "source": "জনপ্রশাসন মন্ত্রণালয়ের প্রজ্ঞাপন (৯ নভেম্বর ২০২৫) ও পরবর্তী সরকারি সিদ্ধান্ত",
+  "updated": "2026-11-08",
+  "source": "জনপ্রশাসন মন্ত্রণালয়ের প্রজ্ঞাপন (২০২৬: ৯ নভেম্বর ২০২৫; ২০২৭: ৫ নভেম্বর ২০২৬) ও পরবর্তী সরকারি সিদ্ধান্ত",
   "holidays": [
     {
       "date": "2026-01-23",
@@ -396,6 +396,238 @@
     },
     {
       "date": "2026-12-25",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Christmas Day",
+      "bn": "বড়দিন"
+    },
+    {
+      "date": "2027-01-24",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Shab-e-Barat",
+      "bn": "শবে বরাত"
+    },
+    {
+      "date": "2027-02-21",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Shaheed Day & International Mother Language Day",
+      "bn": "শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস"
+    },
+    {
+      "date": "2027-03-05",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Jumatul Bida",
+      "bn": "জুমাতুল বিদা"
+    },
+    {
+      "date": "2027-03-07",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Shab-e-Qadr",
+      "bn": "শবে কদর"
+    },
+    {
+      "date": "2027-03-08",
+      "provisional": false,
+      "note": "চাঁদ দেখার উপর নির্ভরশীল; চাঁদ দেখা কমিটির সিদ্ধান্তে বদলাতে পারে",
+      "kind": "EXECUTIVE",
+      "en": "Pre-Eid-ul-Fitr holiday",
+      "bn": "ঈদুল ফিতরের আগের ছুটি"
+    },
+    {
+      "date": "2027-03-09",
+      "provisional": false,
+      "note": "চাঁদ দেখার উপর নির্ভরশীল; চাঁদ দেখা কমিটির সিদ্ধান্তে বদলাতে পারে",
+      "kind": "EXECUTIVE",
+      "en": "Pre-Eid-ul-Fitr holiday",
+      "bn": "ঈদুল ফিতরের আগের ছুটি"
+    },
+    {
+      "date": "2027-03-10",
+      "provisional": false,
+      "note": "চাঁদ দেখার উপর নির্ভরশীল; চাঁদ দেখা কমিটির সিদ্ধান্তে বদলাতে পারে",
+      "kind": "GENERAL",
+      "en": "Eid-ul-Fitr",
+      "bn": "ঈদুল ফিতর"
+    },
+    {
+      "date": "2027-03-11",
+      "provisional": false,
+      "note": "চাঁদ দেখার উপর নির্ভরশীল; চাঁদ দেখা কমিটির সিদ্ধান্তে বদলাতে পারে",
+      "kind": "EXECUTIVE",
+      "en": "Post-Eid-ul-Fitr holiday",
+      "bn": "ঈদুল ফিতরের পরের ছুটি"
+    },
+    {
+      "date": "2027-03-12",
+      "provisional": false,
+      "note": "চাঁদ দেখার উপর নির্ভরশীল; চাঁদ দেখা কমিটির সিদ্ধান্তে বদলাতে পারে",
+      "kind": "EXECUTIVE",
+      "en": "Post-Eid-ul-Fitr holiday",
+      "bn": "ঈদুল ফিতরের পরের ছুটি"
+    },
+    {
+      "date": "2027-03-26",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Independence & National Day",
+      "bn": "স্বাধীনতা ও জাতীয় দিবস"
+    },
+    {
+      "date": "2027-04-13",
+      "provisional": false,
+      "note": "শুধু রাঙ্গামাটি, খাগড়াছড়ি ও বান্দরবান",
+      "kind": "GENERAL",
+      "en": "Chaitra Sankranti (hill districts)",
+      "bn": "চৈত্রসংক্রান্তি (পার্বত্য জেলা)"
+    },
+    {
+      "date": "2027-04-14",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Pohela Boishakh (Bengali New Year)",
+      "bn": "পহেলা বৈশাখ"
+    },
+    {
+      "date": "2027-05-01",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "May Day",
+      "bn": "মে দিবস"
+    },
+    {
+      "date": "2027-05-15",
+      "provisional": false,
+      "note": "চাঁদ দেখার উপর নির্ভরশীল; চাঁদ দেখা কমিটির সিদ্ধান্তে বদলাতে পারে",
+      "kind": "EXECUTIVE",
+      "en": "Pre-Eid-ul-Adha holiday",
+      "bn": "ঈদুল আজহার আগের ছুটি"
+    },
+    {
+      "date": "2027-05-16",
+      "provisional": false,
+      "note": "চাঁদ দেখার উপর নির্ভরশীল; চাঁদ দেখা কমিটির সিদ্ধান্তে বদলাতে পারে",
+      "kind": "EXECUTIVE",
+      "en": "Pre-Eid-ul-Adha holiday",
+      "bn": "ঈদুল আজহার আগের ছুটি"
+    },
+    {
+      "date": "2027-05-17",
+      "provisional": false,
+      "note": "চাঁদ দেখার উপর নির্ভরশীল; চাঁদ দেখা কমিটির সিদ্ধান্তে বদলাতে পারে",
+      "kind": "GENERAL",
+      "en": "Eid-ul-Adha",
+      "bn": "ঈদুল আজহা"
+    },
+    {
+      "date": "2027-05-18",
+      "provisional": false,
+      "note": "চাঁদ দেখার উপর নির্ভরশীল; চাঁদ দেখা কমিটির সিদ্ধান্তে বদলাতে পারে",
+      "kind": "EXECUTIVE",
+      "en": "Post-Eid-ul-Adha holiday",
+      "bn": "ঈদুল আজহার পরের ছুটি"
+    },
+    {
+      "date": "2027-05-19",
+      "provisional": false,
+      "note": "চাঁদ দেখার উপর নির্ভরশীল; চাঁদ দেখা কমিটির সিদ্ধান্তে বদলাতে পারে",
+      "kind": "EXECUTIVE",
+      "en": "Post-Eid-ul-Adha holiday",
+      "bn": "ঈদুল আজহার পরের ছুটি"
+    },
+    {
+      "date": "2027-05-20",
+      "provisional": false,
+      "note": "চাঁদ দেখার উপর নির্ভরশীল; চাঁদ দেখা কমিটির সিদ্ধান্তে বদলাতে পারে",
+      "kind": "EXECUTIVE",
+      "en": "Post-Eid-ul-Adha holiday",
+      "bn": "ঈদুল আজহার পরের ছুটি"
+    },
+    {
+      "date": "2027-05-20",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Buddha Purnima",
+      "bn": "বুদ্ধ পূর্ণিমা"
+    },
+    {
+      "date": "2027-06-16",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Ashura",
+      "bn": "আশুরা"
+    },
+    {
+      "date": "2027-08-05",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "July Mass Uprising Day",
+      "bn": "জুলাই গণঅভ্যুত্থান দিবস"
+    },
+    {
+      "date": "2027-08-15",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Eid-e-Miladunnabi",
+      "bn": "ঈদে মিলাদুন্নবী (সা.)"
+    },
+    {
+      "date": "2027-08-25",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Janmashtami",
+      "bn": "শুভ জন্মাষ্টমী"
+    },
+    {
+      "date": "2027-10-09",
+      "provisional": false,
+      "note": "",
+      "kind": "EXECUTIVE",
+      "en": "Durga Puja (Maha Navami)",
+      "bn": "দুর্গাপূজা (মহানবমী)"
+    },
+    {
+      "date": "2027-10-10",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Durga Puja (Bijoya Dashami)",
+      "bn": "দুর্গাপূজা (বিজয়া দশমী)"
+    },
+    {
+      "date": "2027-11-07",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "National Revolution & Solidarity Day",
+      "bn": "জাতীয় বিপ্লব ও সংহতি দিবস"
+    },
+    {
+      "date": "2027-12-16",
+      "provisional": false,
+      "note": "",
+      "kind": "GENERAL",
+      "en": "Victory Day",
+      "bn": "মহান বিজয় দিবস"
+    },
+    {
+      "date": "2027-12-25",
       "provisional": false,
       "note": "",
       "kind": "GENERAL",
